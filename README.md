@@ -1,10 +1,10 @@
-- :octocat: Initial commit
-- :heavy_plus_sign: adding feature
+- :octocat:: Initial commit
+- :heavy_plus_sign:: adding feature
 - :heavy_minus_sign:: removing feature
-- :construction: work in progress
-- :recycle: refactor
-- :bug: bugfix
-- :fire: removing file
-- :memo: write documentation
-- :arrow_up: upgrading dependencies
-- :arrow_down: downgrading dependencies
+- :construction:: work in progress
+- :recycle:: refactor
+- :bug:: bugfix
+- :fire:: removing file
+- :memo:: write documentation
+- :arrow_up:: upgrading dependencies
+- :arrow_down:: downgrading dependencies
