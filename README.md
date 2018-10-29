@@ -1,4 +1,5 @@
 - :octocat:: Initial commit
+- :art: supporting feature
 - :heavy_plus_sign:: adding feature
 - :heavy_minus_sign:: removing feature
 - :construction:: work in progress
